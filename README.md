@@ -4,7 +4,7 @@
 
 ### Application Description
 
-This project is a test assignment for the Android Developer position.
+Book catalog app displaying NYT bestseller categories and details. Built with Jetpack Compose, Firebase Auth, Room, Coil, Koin
 The goal of the application is to display bestseller book categories and book details retrieved from
 the [New York Times Developer Network Books API](https://developer.nytimes.com/)
 
